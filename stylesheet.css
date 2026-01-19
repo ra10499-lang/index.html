@@ -3,6 +3,7 @@ body { background-color:#2F13E8
 h1 { color:#FF0000;}
 h2 { color:#FF0000;}
 p { color:#FF0000;}
-p { font-family:fantasy;}
-h1 { font-family:fantasy;}
-h2 { font-family:fantasy;}
+p { font-family:monospace;}
+h1 { font-family:monospace;}
+h2 { font-family:monospace;}
+
